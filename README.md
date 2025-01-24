@@ -1,0 +1,3 @@
+# shortcuts
+
+SHIFT + ALT + F
