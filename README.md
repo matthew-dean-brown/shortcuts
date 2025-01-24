@@ -1,3 +1,3 @@
 # shortcuts
 
-SHIFT + ALT + F
+SHIFT + ALT + F --> FORMATS CODE
